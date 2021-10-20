@@ -7,8 +7,8 @@ marrid1= random.shuffle(girl) and (boy)
 
 for i in range(len(girl)):
     
-    print (girl[i],boy[i])        
+     j=(girl[i],boy[i])        
 #print(girl ,"&" ,boy)
 
-#print(marrid1)
+     print(j)
    
